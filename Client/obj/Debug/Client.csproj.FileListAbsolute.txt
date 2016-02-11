@@ -1,0 +1,22 @@
+G:\University\4_curs\PAD\PAD(labs)\PAD02v4\Client\bin\Debug\Client.exe.config
+G:\University\4_curs\PAD\PAD(labs)\PAD02v4\Client\bin\Debug\Client.exe
+G:\University\4_curs\PAD\PAD(labs)\PAD02v4\Client\bin\Debug\Client.pdb
+G:\University\4_curs\PAD\PAD(labs)\PAD02v4\Client\bin\Debug\PAD02v4.exe
+G:\University\4_curs\PAD\PAD(labs)\PAD02v4\Client\bin\Debug\PAD02v4.pdb
+G:\University\4_curs\PAD\PAD(labs)\PAD02v4\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+G:\University\4_curs\PAD\PAD(labs)\PAD02v4\Client\obj\Debug\Client.exe
+G:\University\4_curs\PAD\PAD(labs)\PAD02v4\Client\obj\Debug\Client.pdb
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4 - копия\Client\bin\Debug\Client.exe.config
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4 - копия\Client\obj\Debug\Client.exe
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4 - копия\Client\obj\Debug\Client.pdb
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\Client\bin\Debug\Client.exe.config
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\Client\obj\Debug\Client.exe
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\Client\obj\Debug\Client.pdb
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\Client\bin\Debug\Client.exe
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\Client\bin\Debug\Client.pdb
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\Client\bin\Debug\PAD02v4.exe
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\Client\bin\Debug\PAD02v4.pdb
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\result\Client.exe.config
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\result\Client.exe
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\result\Client.pdb

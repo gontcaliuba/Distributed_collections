@@ -1,0 +1,18 @@
+G:\University\4_curs\PAD\PAD(labs)\PAD02v4\PAD02v4\bin\Debug\PAD02v4.exe.config
+G:\University\4_curs\PAD\PAD(labs)\PAD02v4\PAD02v4\bin\Debug\PAD02v4.exe
+G:\University\4_curs\PAD\PAD(labs)\PAD02v4\PAD02v4\bin\Debug\PAD02v4.pdb
+G:\University\4_curs\PAD\PAD(labs)\PAD02v4\PAD02v4\obj\Debug\PAD02v4.csprojResolveAssemblyReference.cache
+G:\University\4_curs\PAD\PAD(labs)\PAD02v4\PAD02v4\obj\Debug\PAD02v4.exe
+G:\University\4_curs\PAD\PAD(labs)\PAD02v4\PAD02v4\obj\Debug\PAD02v4.pdb
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4 - копия\PAD02v4\bin\Debug\PAD02v4.exe.config
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4 - копия\PAD02v4\obj\Debug\PAD02v4.exe
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4 - копия\PAD02v4\obj\Debug\PAD02v4.pdb
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4 - копия\PAD02v4\bin\Debug\PAD02v4.exe
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4 - копия\PAD02v4\bin\Debug\PAD02v4.pdb
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4 - копия\PAD02v4\obj\Debug\PAD02v4.csprojResolveAssemblyReference.cache
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\PAD02v4\bin\Debug\PAD02v4.exe.config
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\PAD02v4\obj\Debug\PAD02v4.exe
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\PAD02v4\obj\Debug\PAD02v4.pdb
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\PAD02v4\bin\Debug\PAD02v4.exe
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\PAD02v4\bin\Debug\PAD02v4.pdb
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\PAD02v4\obj\Debug\PAD02v4.csprojResolveAssemblyReference.cache

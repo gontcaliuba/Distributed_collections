@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<EmployeeRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <employees>
+    <Employee>
+      <firstName>Ivan</firstName>
+      <lastName>Ivanov</lastName>
+      <department>IT</department>
+      <salary>20000</salary>
+    </Employee>
+    <Employee>
+      <firstName>Petr</firstName>
+      <lastName>Petrov</lastName>
+      <department>IT</department>
+      <salary>20000</salary>
+    </Employee>
+    <Employee>
+      <firstName>Sidor</firstName>
+      <lastName>Sidorov</lastName>
+      <department>CR</department>
+      <salary>2000</salary>
+    </Employee>
+    <Employee>
+      <firstName>Elena</firstName>
+      <lastName>Cravcenco</lastName>
+      <department>CR</department>
+      <salary>2000</salary>
+    </Employee>
+  </employees>
+</EmployeeRepository>

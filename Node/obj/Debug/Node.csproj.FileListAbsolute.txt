@@ -1,0 +1,22 @@
+G:\University\4_curs\PAD\PAD(labs)\PAD02v4\Node\bin\Debug\Node.exe.config
+G:\University\4_curs\PAD\PAD(labs)\PAD02v4\Node\bin\Debug\Node.exe
+G:\University\4_curs\PAD\PAD(labs)\PAD02v4\Node\bin\Debug\Node.pdb
+G:\University\4_curs\PAD\PAD(labs)\PAD02v4\Node\bin\Debug\PAD02v4.exe
+G:\University\4_curs\PAD\PAD(labs)\PAD02v4\Node\bin\Debug\PAD02v4.pdb
+G:\University\4_curs\PAD\PAD(labs)\PAD02v4\Node\obj\Debug\Node.csprojResolveAssemblyReference.cache
+G:\University\4_curs\PAD\PAD(labs)\PAD02v4\Node\obj\Debug\Node.exe
+G:\University\4_curs\PAD\PAD(labs)\PAD02v4\Node\obj\Debug\Node.pdb
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4 - копия\Node\bin\Debug\Node.exe.config
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4 - копия\Node\obj\Debug\Node.exe
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4 - копия\Node\obj\Debug\Node.pdb
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\Node\bin\Debug\Node.exe.config
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\Node\obj\Debug\Node.exe
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\Node\obj\Debug\Node.pdb
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\Node\bin\Debug\Node.exe
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\Node\bin\Debug\Node.pdb
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\Node\bin\Debug\PAD02v4.exe
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\Node\bin\Debug\PAD02v4.pdb
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\Node\obj\Debug\Node.csprojResolveAssemblyReference.cache
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\result\Node.exe.config
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\result\Node.exe
+G:\University\4_curs\PAD\PAD(labs)\prog\PAD02v4\result\Node.pdb
